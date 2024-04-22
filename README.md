@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Chinh</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledinhchinh0212&label=Profile%20views&color=0e75b6&style=flat" alt="ledinhchinh0212" /> </p>
 
-- 📫 How to reach me **ledinhchinh.dev@gmail.com**
+- How to reach me **ledinhchinh.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ledinhchinh0212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ledinhchinh0212" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
