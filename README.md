@@ -3,12 +3,12 @@
 ## Hi, I'm Chinh <a href="#"><img src="https://i.imgur.com/LATSmAA.png" style="width: 1em; transform: translateY(25%);" /></a>
 
 ### What is my area of expertise?
-Software Engineering 💻
+Software Engineering ⚙️
 
 ### About Me
-- **Interests:** Anime
-- **Habits:** Exploring, Researching
-- **Video Games:** osu!
+- 🌺**Interests:** Anime
+- ✒️**Habits:** Exploring, Researching
+- 🎎**Video Games:** osu!
 
 ## GitHub Stats
 <p align="center">
