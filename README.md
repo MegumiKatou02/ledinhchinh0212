@@ -13,5 +13,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledinhchinh0212&show_icons=true&locale=en&layout=compact" alt="ledinhchinh0212" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledinhchinh0212&" alt="ledinhchinh0212" /></p>
-<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ledinhchinh0212&theme=blueberry" /></a>
+<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ledinhchinh0212&theme=buefy" /></a>
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sherly1001&utcOffset=7&theme=github_dark" /></a>
