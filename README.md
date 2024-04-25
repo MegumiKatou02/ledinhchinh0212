@@ -6,9 +6,9 @@
 Software Engineering ⚙️
 
 ### About Me
-- 🌺**Interests:** Anime
-- ✒️**Habits:** Exploring, Researching
-- 🎎**Video Games:** osu!
+- 🌺 **Interests:** Anime
+- ✒️ **Habits:** Exploring, Researching
+- 🎎 **Video Games:** osu!
 
 ## GitHub Stats
 <p align="center">
