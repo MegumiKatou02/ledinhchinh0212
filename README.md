@@ -20,5 +20,5 @@ Software Engineering ⚙️
 </p>
 
 <a href="#">
-  <img src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ledinhchinh0212&theme=buefy](https://github-readme-stats.vercel.app/api/top-langs/?username=ledinhchinh0212&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ledinhchinh0212&theme=buefy](https://github-readme-stats.vercel.app/api/top-langs/?username=ledinhchinh0212&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api?username=ledinhchinh0212&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" />
 </a>
