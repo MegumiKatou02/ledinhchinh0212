@@ -12,11 +12,13 @@ Software Engineering ⚙️
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ledinhchinh0212&show_icons=true&locale=en&layout=compact" alt="ledinhchinh0212" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledinhchinh0212&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ledinhchinh0212" alt="ledinhchinh0212" />
 </p>
 
-
+<a href="#">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ledinhchinh0212&theme=buefy" />
+</a>
