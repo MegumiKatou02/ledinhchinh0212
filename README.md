@@ -12,7 +12,7 @@ Software Engineering ⚙️
 
 ## GitHub Stats
 <p align="center">
-  <img src="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ledinhchinh0212&show_icons=true&locale=en&layout=compact" alt="ledinhchinh0212" />
 </p>
 
 <p align="center">
