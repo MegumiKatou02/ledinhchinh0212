@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 ## Hi, I'm Chinh <a href="#"><img src="https://i.imgur.com/LATSmAA.png" style="width: 1em; transform: translateY(25%);" /></a>
-
+ 
 ### What is my area of expertise?
 Software Engineering ⚙️
 
